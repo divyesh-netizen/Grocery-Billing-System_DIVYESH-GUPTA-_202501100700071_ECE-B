@@ -11,20 +11,17 @@ Approach
 3. The program calculates the total cost:
 
 SAMPLE OUTPUT 
-
 Enter price of 5 items:
-Prices :1: 20
-Prices :2: 15
-Prices :3: 30
-Prices :4: 10
-Prices :5: 25
-
-unit[0] quantity: 2
-unit[1] quantity: 3
-unit[2] quantity: 1
-unit[3] quantity: 4
-unit[4] quantity: 2
-
-Total amount = 195.0
-Discount = 19.5
-Final Payable Amount = 175.5
+Prices :1: 34
+Prices :2: 56
+Prices :3: 2
+Prices :4: 454
+Prices :5: 6
+unit[0] quantity: 432
+unit[1] quantity: 42
+unit[2] quantity: 2
+unit[3] quantity: 2
+unit[4] quantity: 4
+Total amount = 17976.0
+Discount = 1797.6000000000001
+Final Payable Amount = 16178.4
